@@ -1,5 +1,3 @@
-
-
 let x;
 let y;
 
